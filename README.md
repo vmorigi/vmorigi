@@ -1,4 +1,5 @@
 E aí! Eu sou o Vitor Gabriel, tudo beleza? 😃  
+
 Tô iniciando minha jornada na área Tech! Estou aberto a dicas e conselhos 
 
 ## 🔗 Me chama no LinkedIn ou deixa uma issue por aqui mesmo!
